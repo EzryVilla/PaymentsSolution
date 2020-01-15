@@ -1,0 +1,13 @@
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\Business.dll.config
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\Business.dll
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\Business.pdb
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\Entities.dll
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\EntityFramework.dll
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\Entities.pdb
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\EntityFramework.xml
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\obj\Debug\Data.csproj.CopyComplete
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\obj\Debug\Business.dll
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\Business\obj\Debug\Business.pdb

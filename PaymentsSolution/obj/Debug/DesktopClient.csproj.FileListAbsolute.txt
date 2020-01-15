@@ -1,0 +1,16 @@
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\PaymentsSolution.exe
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\PaymentsSolution.pdb
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\Business.dll
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\Entities.dll
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\EntityFramework.dll
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\Business.pdb
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\Business.dll.config
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\Entities.pdb
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\bin\Debug\EntityFramework.xml
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\obj\Debug\DesktopClient.csprojAssemblyReference.cache
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.FrmMain.resources
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.Properties.Resources.resources
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\obj\Debug\DesktopClient.csproj.GenerateResource.cache
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\obj\Debug\DesktopClient.csproj.CopyComplete
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.exe
+C:\Users\lesez\Desktop\PaymentsSolution\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.pdb

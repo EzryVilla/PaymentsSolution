@@ -1,0 +1,8 @@
+C:\Users\Emcor\source\repos\PaymentsSolution\PaymentsSolution\bin\Debug\PaymentsSolution.exe
+C:\Users\Emcor\source\repos\PaymentsSolution\PaymentsSolution\bin\Debug\PaymentsSolution.pdb
+C:\Users\Emcor\source\repos\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.csprojAssemblyReference.cache
+C:\Users\Emcor\source\repos\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.FrmMain.resources
+C:\Users\Emcor\source\repos\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.Properties.Resources.resources
+C:\Users\Emcor\source\repos\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.csproj.GenerateResource.cache
+C:\Users\Emcor\source\repos\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.exe
+C:\Users\Emcor\source\repos\PaymentsSolution\PaymentsSolution\obj\Debug\PaymentsSolution.pdb
